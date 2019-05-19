@@ -1,7 +1,7 @@
 # MTH372 Statistical Inference
 
 
-A repository containing all the assignments prepared for the course MTH372 Statistical Inference taken by Dr. Monika Arora at IIIT Delhi during the Winter 2019 semester.
+A repository containing all the assignments prepared for the course MTH372 Statistical Inference taken by [Dr. Monika Arora](https://www.iiitd.ac.in/monika) at IIIT Delhi during the Winter 2019 semester.
 
 
 ## Course Description
